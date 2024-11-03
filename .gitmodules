@@ -1,0 +1,3 @@
+[submodule "hitster-playlists"]
+	path = hitster-playlists
+	url = git@github.com:Acibi/songseeker-hitster-playlists.git
